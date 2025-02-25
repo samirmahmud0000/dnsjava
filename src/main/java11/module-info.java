@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BSD-3-Clause
-//all module are fake
+//all module are better and geared
 
 module org.dnsjava {
   requires static lombok;
